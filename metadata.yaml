@@ -1,0 +1,40 @@
+_repo: A-Scena-do-Odio_22615
+_version: 0.1.0
+alternative_title: A Cena do Ódio
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almada Negreiros, José de
+    aliases:
+    - Sobral de Almada Negreiros, José
+    - De Almada Negreiros, José
+    - Negreiros, José de Almada
+    - Negreiros, Jose Sobral de Almada
+    - Negreiros, José Sobral de Almada
+    birthdate: 1893
+    deathdate: 1970
+    gutenberg_agent_id: '25447'
+    url: http://www.gutenberg.org/2009/agents/25447
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Almada_Negreiros
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22615'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: '1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: A Scena do Odio
+url: http://www.gutenberg.org/ebooks/22615
